@@ -1,0 +1,10 @@
+# Configuration for madewithlove/license-checker 3.x (requires PHP 8.4).
+# Version 2.x reads .allowed-licenses instead; keep both lists identical.
+# TODO: delete .allowed-licenses once PHP 8.3 support is dropped.
+allowed:
+    - Artistic-1.0
+    - BSD-2-Clause
+    - BSD-3-Clause
+    - ISC
+    - MIT
+    - MPL-2.0

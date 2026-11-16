@@ -1,3 +1,6 @@
+# Configuration for madewithlove/license-checker 2.x (used on PHP 8.3 only).
+# Version 3.x reads .license-checker.yml instead; keep both lists identical.
+# TODO: delete this file once PHP 8.3 support is dropped.
 - Artistic-1.0
 - BSD-2-Clause
 - BSD-3-Clause
